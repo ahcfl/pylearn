@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d68cd46e-8edf-4ff0-bc23-be3b49e8b32a" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/PlaneGame$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1502622237052" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>destory</find>
+      <find>dest</find>
+      <find>英雄牺牲了</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>destroy</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jEC0RmtOHxDpAeausP3ZSx895t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="plane_main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PlaneGame" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/plane_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.plane_main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d68cd46e-8edf-4ff0-bc23-be3b49e8b32a" name="Default" comment="" />
+      <created>1502612106210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502612106210</updated>
+      <workItem from="1603359644508" duration="921000" />
+    </task>
+    <task id="LOCAL-00001" summary="添加图片素材">
+      <created>1502612273217</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1502612273217</updated>
+    </task>
+    <task id="LOCAL-00002" summary="基础框架搭建/背景图片交替轮换">
+      <created>1502612425833</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1502612425833</updated>
+    </task>
+    <task id="LOCAL-00003" summary="微调代码结构和注释">
+      <created>1502612598448</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1502612598448</updated>
+    </task>
+    <task id="LOCAL-00004" summary="添加飞机精灵，实现生存图像和爆炸图像的序列帧动画效果">
+      <created>1502618591782</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1502618591782</updated>
+    </task>
+    <task id="LOCAL-00005" summary="移动英雄">
+      <created>1502619085899</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1502619085899</updated>
+    </task>
+    <task id="LOCAL-00006" summary="发射子弹">
+      <created>1502620054017</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1502620054017</updated>
+    </task>
+    <task id="LOCAL-00007" summary="添加敌机，集体自爆">
+      <created>1502620618838</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1502620618838</updated>
+    </task>
+    <task id="LOCAL-00008" summary="碰撞检测完成">
+      <created>1502622290363</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1502622290363</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加图片素材" />
+    <MESSAGE value="基础框架搭建/背景图片交替轮换" />
+    <MESSAGE value="微调代码结构和注释" />
+    <MESSAGE value="添加飞机精灵，实现生存图像和爆炸图像的序列帧动画效果" />
+    <MESSAGE value="移动英雄" />
+    <MESSAGE value="发射子弹" />
+    <MESSAGE value="添加敌机，集体自爆" />
+    <MESSAGE value="碰撞检测完成" />
+    <option name="LAST_COMMIT_MESSAGE" value="碰撞检测完成" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1342" height="197" key="GridCell.Tab.0.bottom" timestamp="1603359858414">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="197" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1603359858414" />
+    <state width="1342" height="197" key="GridCell.Tab.0.center" timestamp="1603359858414">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="197" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1603359858414" />
+    <state width="1342" height="197" key="GridCell.Tab.0.left" timestamp="1603359858414">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="197" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1603359858414" />
+    <state width="1342" height="197" key="GridCell.Tab.0.right" timestamp="1603359858414">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1342" height="197" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1603359858414" />
+    <state x="23" y="56" key="SettingsEditor" timestamp="1603359816497">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="23" y="56" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1603359816497" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/1_1$plane_main.coverage" NAME="plane_main Coverage Results" MODIFIED="1603359821440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
